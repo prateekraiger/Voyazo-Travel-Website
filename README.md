@@ -24,7 +24,7 @@ Voyazo is a responsive travel website built using HTML, CSS, and JavaScript. Thi
 
 **Getting Started:**
 
-1. Clone the repository using `git clone https://github.com/your-username/voyazo.git`
+1. Clone the repository using `git clone https://github.com/prateekraiger/Voyazo-Travel-Website.git` 
 2. Open the project in your preferred code editor or IDE
 3. Run the website by opening the `index.html` file in a web browser
 
