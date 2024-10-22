@@ -1,5 +1,6 @@
 
-** Voyazo - A Responsive Travel Website**
+#** Voyazo - A Responsive Travel Website**
+===========================================================================
 
 **Description:**
 Voyazo is a responsive travel website built using HTML, CSS, and JavaScript. This project showcases a modern and clean design, perfect for travel enthusiasts and adventure-seekers. The website is fully responsive, ensuring a seamless user experience across various devices and screen sizes.
