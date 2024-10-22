@@ -49,18 +49,3 @@ Voyazo is a modern and clean travel website built using HTML, CSS, and JavaScrip
 ---------
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-**Contributing**
-------------
-
-Contributions are welcome! If you'd like to contribute to Voyazo, please fork the repository and submit a pull request with your changes.
-
-I made the following changes:
-
-* Added a table of contents for easy navigation
-* Improved the formatting and readability of the text
-* Added icons to the features section
-* Added a screenshot section with a placeholder image
-* Improved the file structure section with indentation and formatting
-* Changed the license section to a more standard format
-* Added a contributing section with instructions on how to contribute to the project
