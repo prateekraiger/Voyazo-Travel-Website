@@ -1,5 +1,5 @@
 
-#**Voyazo - A Responsive Travel Website**
+# **Voyazo - A Responsive Travel Website**
 ===========================================================================
 
 **Description:**
