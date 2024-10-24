@@ -17,8 +17,8 @@ Voyazo is a modern and clean travel website built using HTML, CSS, and JavaScrip
 **Technologies Used**
 --------------------
 
-• **HTML5**: The latest HTML standard for building web applications.
-• **CSS3**: The latest CSS standard for styling and layout.
+* **HTML5**: The latest HTML standard for building web applications.
+* **CSS3**: The latest CSS standard for styling and layout.
 • **JavaScript**: For adding interactivity to the website.
 • **Responsive Web Design (RWD)**: Ensures a seamless user experience across devices.
 
